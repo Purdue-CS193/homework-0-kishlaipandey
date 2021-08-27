@@ -1,5 +1,5 @@
 # Kishlai Pandey's First CS193 Homework
 
-- Chill class
-- The lecture hall is nice
-- Cool class overall
+- Having no +/- grades
+- No textbooks to buy
+- No exams
